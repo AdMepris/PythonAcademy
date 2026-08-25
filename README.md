@@ -2,6 +2,8 @@
 ## 1. Create Your Personal Copy (Forking)
 Before opening the code, you need to create your own version of the repository so you can save your work.
 
+https://colab.research.google.com/drive/1cTGSb5QrG6wMlRcMhGkSLGjvaIbLHaHX?usp=sharing
+
 - Navigate to the GitHub link provided by your instructor.
 - In the top-right corner of the page, click the **Fork** button.
 - Click Create Fork. You now have a copy of the materials under your own GitHub account.
